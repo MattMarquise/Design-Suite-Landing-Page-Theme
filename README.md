@@ -4,4 +4,4 @@
 
 A random project inspired by Dwell.com. 
  
-[View Demo](https://matthewmarquise.com/designsuite)
+[View Demo](https://matthewmarquise.com/design_suite.html)
